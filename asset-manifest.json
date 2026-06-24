@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GharAI/static/css/main.0549012e.css",
+    "main.js": "/GharAI/static/js/main.6fc61304.js",
+    "static/js/453.581382b1.chunk.js": "/GharAI/static/js/453.581382b1.chunk.js",
+    "index.html": "/GharAI/index.html",
+    "main.0549012e.css.map": "/GharAI/static/css/main.0549012e.css.map",
+    "main.6fc61304.js.map": "/GharAI/static/js/main.6fc61304.js.map",
+    "453.581382b1.chunk.js.map": "/GharAI/static/js/453.581382b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0549012e.css",
+    "static/js/main.6fc61304.js"
+  ]
+}
